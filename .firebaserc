@@ -1,0 +1,16 @@
+{
+  "projects": {
+    "default": "tiendadelveci",
+    "tiendadelveci": "tiendadelveci"
+  },
+  "targets": {
+    "tiendadelveci": {
+      "hosting": {
+        "tienda": [
+          "tiendadelveci"
+        ]
+      }
+    }
+  },
+  "etags": {}
+}
